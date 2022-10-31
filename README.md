@@ -1,5 +1,6 @@
 # PySpark-1-ApachePySparkByExample
-Solved challenges from the "Apache PySpark By Example" by Jonathan Fernandes
+
+Solved challenges from the ["Apache PySpark By Example" by Jonathan Fernandes](https://www.linkedin.com/learning/apache-pyspark-by-example)
 
 ## Usage
 
@@ -9,4 +10,4 @@ Solved challenges from the "Apache PySpark By Example" by Jonathan Fernandes
 
 ## Credits
 
-Made by Nickolas da Rocha Machado (nickolasrm)
+Made by Nickolas da Rocha Machado ([nickolasrm](https://github.com/nickolasrm))
